@@ -6,3 +6,8 @@
 *.bin
 
 *.lock
+
+*.idea
+
+*.iml
+/search-action/.gradle/2.1/taskArtifacts/cache.properties
